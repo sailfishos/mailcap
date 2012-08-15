@@ -4,7 +4,7 @@ Version: 2.1.32
 Release: 1
 Group: System/Base
 License: Public Domain
-URL: http://www.redhat.com
+URL: http://git.fedorahosted.org/cgit/mailcap.git/refs/tags
 Sources:
     - "%{name}-%{version}.tar.gz"
 Description: |
